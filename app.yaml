@@ -12,4 +12,4 @@ handlers:
   upload: www/(.*)
 
 skip_files:
-- doc/
+- www/doc/
