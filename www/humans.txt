@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    James Seiters -- Sole Developer -- Occassionally on #kubuntu
 
 # THANKS
 
-    <name>
+
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    jQuery, BootStrap 4
