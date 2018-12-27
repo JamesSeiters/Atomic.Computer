@@ -8,6 +8,10 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 
+#lettera, #letterc {
+  font-family: 'Noto Sans';
+}
+
 /* 0.75rem(12px) @ 18.75rem(300px) increasing to 4rem(64px) @ 240rem(3840px) */
 @media (min-width: 18.75rem) {
   :root {
